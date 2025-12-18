@@ -7,12 +7,11 @@
 
 Uma aplicação web moderna e responsiva para simular Máquinas de Turing. O projeto permite escrever configurações de máquinas, visualizar a execução passo a passo na fita e acompanhar as transições em um diagrama de estados (autômato) gerado automaticamente.
 
-> **Desenvolvido por:** Matheus de Assis  
 > **Versão:** 1.0.0
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 * **Editor de Configuração:** Escreva o código da sua máquina diretamente no navegador.
 * **Visualização da Fita:** Acompanhe o movimento do cabeçote e a escrita na fita em tempo real.
@@ -42,7 +41,7 @@ Siga os passos abaixo para rodar o projeto na sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/turing-simulator.git](https://github.com/SEU_USUARIO/turing-simulator.git)
+    git clone https://github.com/Matheus-a31/SIMULADOR-MAQUINA-DE-TURING-WEB.git
     cd turing-simulator
     ```
 
